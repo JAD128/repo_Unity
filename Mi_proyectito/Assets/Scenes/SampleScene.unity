@@ -122,6 +122,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &70872784
 GameObject:
   m_ObjectHideFlags: 0
@@ -604,6 +605,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nuevaVelocidad: 20
   duracion: 5
+=======
+>>>>>>> refs/remotes/origin/Mi_proyectito
 --- !u!1 &499119206 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8492824953096112291, guid: f7212dd9a1bd4d04c9f91a75c7ce9d4a, type: 3}
@@ -630,6 +633,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &595967622
 GameObject:
   m_ObjectHideFlags: 0
@@ -752,6 +756,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nuevaVelocidad: 20
   duracion: 5
+=======
+>>>>>>> refs/remotes/origin/Mi_proyectito
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -846,6 +852,70 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+<<<<<<< HEAD
+=======
+--- !u!1001 &894328787
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1455586373020729947, guid: 8533b9cbe54a09f4d868128f2111020b, type: 3}
+      propertyPath: m_Name
+      value: miObjeto
+      objectReference: {fileID: 0}
+    - target: {fileID: 8393577477990204368, guid: 8533b9cbe54a09f4d868128f2111020b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 8393577477990204368, guid: 8533b9cbe54a09f4d868128f2111020b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 8393577477990204368, guid: 8533b9cbe54a09f4d868128f2111020b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -20.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 8393577477990204368, guid: 8533b9cbe54a09f4d868128f2111020b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8393577477990204368, guid: 8533b9cbe54a09f4d868128f2111020b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8393577477990204368, guid: 8533b9cbe54a09f4d868128f2111020b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8393577477990204368, guid: 8533b9cbe54a09f4d868128f2111020b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8393577477990204368, guid: 8533b9cbe54a09f4d868128f2111020b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8393577477990204368, guid: 8533b9cbe54a09f4d868128f2111020b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8393577477990204368, guid: 8533b9cbe54a09f4d868128f2111020b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9190176271157687570, guid: 8533b9cbe54a09f4d868128f2111020b, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8533b9cbe54a09f4d868128f2111020b, type: 3}
+>>>>>>> refs/remotes/origin/Mi_proyectito
 --- !u!1 &935622208
 GameObject:
   m_ObjectHideFlags: 0
@@ -1038,7 +1108,11 @@ Transform:
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
   m_LocalRotation: {x: -0.07588636, y: -0.0150567, z: -0.01883976, w: -0.9968248}
+<<<<<<< HEAD
   m_LocalPosition: {x: -0.30499998, y: 2.71, z: -4.3950005}
+=======
+  m_LocalPosition: {x: -0.30499998, y: 2.38, z: -4.3950005}
+>>>>>>> refs/remotes/origin/Mi_proyectito
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1096,6 +1170,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 564884059515722601, guid: 3894d8abe5ca2514e92ecaefcb405b7e, type: 3}
   m_PrefabInstance: {fileID: 1210540696}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!114 &984688960
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1110,6 +1185,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   vida: 3
   miPersonaje: {fileID: 8387070195887997403, guid: 3894d8abe5ca2514e92ecaefcb405b7e, type: 3}
+=======
+>>>>>>> refs/remotes/origin/Mi_proyectito
 --- !u!1001 &1210540696
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1124,7 +1201,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 564884059515722601, guid: 3894d8abe5ca2514e92ecaefcb405b7e, type: 3}
       propertyPath: m_LocalPosition.y
+<<<<<<< HEAD
       value: 3.01
+=======
+      value: 3.67
+>>>>>>> refs/remotes/origin/Mi_proyectito
       objectReference: {fileID: 0}
     - target: {fileID: 564884059515722601, guid: 3894d8abe5ca2514e92ecaefcb405b7e, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1170,6 +1251,7 @@ PrefabInstance:
       propertyPath: miObjeto
       value: 
       objectReference: {fileID: 1455586373020729947, guid: 8533b9cbe54a09f4d868128f2111020b, type: 3}
+<<<<<<< HEAD
     - target: {fileID: 3531002829782213154, guid: 3894d8abe5ca2514e92ecaefcb405b7e, type: 3}
       propertyPath: efectoEscudo
       value: 
@@ -1178,14 +1260,19 @@ PrefabInstance:
       propertyPath: miOtroObjeto
       value: 
       objectReference: {fileID: 83943729189260190, guid: 318dacdd089e0d64e9581e88d87db817, type: 3}
+=======
+>>>>>>> refs/remotes/origin/Mi_proyectito
     - target: {fileID: 8387070195887997403, guid: 3894d8abe5ca2514e92ecaefcb405b7e, type: 3}
       propertyPath: m_Name
       value: Sphere
       objectReference: {fileID: 0}
+<<<<<<< HEAD
     - target: {fileID: 8387070195887997403, guid: 3894d8abe5ca2514e92ecaefcb405b7e, type: 3}
       propertyPath: m_TagString
       value: Player
       objectReference: {fileID: 0}
+=======
+>>>>>>> refs/remotes/origin/Mi_proyectito
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -1196,6 +1283,7 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 8387070195887997403, guid: 3894d8abe5ca2514e92ecaefcb405b7e, type: 3}
       insertIndex: -1
       addedObject: {fileID: 984688950}
+<<<<<<< HEAD
     - targetCorrespondingSourceObject: {fileID: 8387070195887997403, guid: 3894d8abe5ca2514e92ecaefcb405b7e, type: 3}
       insertIndex: -1
       addedObject: {fileID: 984688960}
@@ -1440,6 +1528,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 31b8298ff3c38b54cb7284869aca78cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+  m_SourcePrefab: {fileID: 100100000, guid: 3894d8abe5ca2514e92ecaefcb405b7e, type: 3}
+>>>>>>> refs/remotes/origin/Mi_proyectito
 --- !u!1001 &6329973669697547089
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1448,6 +1539,7 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< HEAD
     - target: {fileID: 2347679568980534097, guid: f7212dd9a1bd4d04c9f91a75c7ce9d4a, type: 3}
       propertyPath: m_TagString
       value: Obstaculo
@@ -1460,6 +1552,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Obstaculo
       objectReference: {fileID: 0}
+=======
+>>>>>>> refs/remotes/origin/Mi_proyectito
     - target: {fileID: 6321357565200052211, guid: f7212dd9a1bd4d04c9f91a75c7ce9d4a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6.4607
@@ -1500,6 +1594,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
     - target: {fileID: 6490931253912431679, guid: f7212dd9a1bd4d04c9f91a75c7ce9d4a, type: 3}
       propertyPath: m_TagString
       value: Obstaculo
@@ -1508,14 +1603,19 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Obstaculo
       objectReference: {fileID: 0}
+=======
+>>>>>>> refs/remotes/origin/Mi_proyectito
     - target: {fileID: 8492824953096112291, guid: f7212dd9a1bd4d04c9f91a75c7ce9d4a, type: 3}
       propertyPath: m_Name
       value: Bloques
       objectReference: {fileID: 0}
+<<<<<<< HEAD
     - target: {fileID: 8492824953096112291, guid: f7212dd9a1bd4d04c9f91a75c7ce9d4a, type: 3}
       propertyPath: m_TagString
       value: Obstaculo
       objectReference: {fileID: 0}
+=======
+>>>>>>> refs/remotes/origin/Mi_proyectito
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1532,6 +1632,7 @@ SceneRoots:
   - {fileID: 935622212}
   - {fileID: 6329973669697547089}
   - {fileID: 1210540696}
+<<<<<<< HEAD
   - {fileID: 287806952}
   - {fileID: 70872788}
   - {fileID: 323791207}
@@ -1539,3 +1640,6 @@ SceneRoots:
   - {fileID: 2127390919}
   - {fileID: 344312018}
   - {fileID: 595967626}
+=======
+  - {fileID: 894328787}
+>>>>>>> refs/remotes/origin/Mi_proyectito

@@ -6,7 +6,11 @@ using UnityEngine.UIElements;
 public class move_object : MonoBehaviour
 {
     public float speed = 5.0f;
+<<<<<<< HEAD
     public float posZ = 13.23f;
+=======
+    public float posZ = 0f;
+>>>>>>> refs/remotes/origin/Mi_proyectito
     void Start()
     {
         

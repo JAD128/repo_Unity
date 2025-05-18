@@ -15,6 +15,7 @@ public class Colectable : MonoBehaviour
     {
         
     }
+<<<<<<< HEAD
 
     private void OnTriggerEnter(Collider other)
     {
@@ -34,4 +35,6 @@ public class Colectable : MonoBehaviour
             Destroy(this.gameObject);
         }
     }
+=======
+>>>>>>> refs/remotes/origin/Mi_proyectito
 }

@@ -1,6 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
+<<<<<<< HEAD
 using Unity.VisualScripting;
+=======
+>>>>>>> refs/remotes/origin/Mi_proyectito
 using UnityEngine;
 
 public class Move : MonoBehaviour
@@ -8,15 +11,21 @@ public class Move : MonoBehaviour
     [SerializeField]
     private float speed = 5.0f;
 
+<<<<<<< HEAD
     // Habilidad de Velocidad
     private float velocidadOriginal = 5f;
 
     public float horizontalInput;
     public float verticalInput; 
+=======
+    public float horizontalInput;
+    public float verticalInput;
+>>>>>>> refs/remotes/origin/Mi_proyectito
 
     //Variable tipo GameObject - guarda la esfera
     public GameObject miObjeto;
 
+<<<<<<< HEAD
     public GameObject miOtroObjeto;
 
     // Variable interactuar desde otra clase
@@ -30,6 +39,8 @@ public class Move : MonoBehaviour
     private float duracionEscudo = 5f; // Duración del escudo 
     public float tiempoDeRecarga = 10f;
 
+=======
+>>>>>>> refs/remotes/origin/Mi_proyectito
     void Start()
     {
         
@@ -40,8 +51,13 @@ public class Move : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
+<<<<<<< HEAD
             //Instantiate(miObjeto, transform.position, Quaternion.identity);
             cambiaMiObjeto();
+=======
+            Instantiate(miObjeto, transform.position, Quaternion.identity);
+            //cambiarMiObjeto();
+>>>>>>> refs/remotes/origin/Mi_proyectito
         }
 
         horizontalInput = Input.GetAxis("Horizontal"); //Nombre tiene que ser igual .-.
@@ -74,6 +90,7 @@ public class Move : MonoBehaviour
             transform.position = new Vector3(5.71f, transform.position.y, transform.position.z);
         }
 
+<<<<<<< HEAD
         // Activar escudo con tecla 'E' 
 
         if (Input.GetKeyDown(KeyCode.E) && puedeActivarEscudo)
@@ -138,4 +155,9 @@ public class Move : MonoBehaviour
         Debug.Log("Escudo recargado. Puedes usarlo de nuevo.");
     }
 
+=======
+
+
+    }
+>>>>>>> refs/remotes/origin/Mi_proyectito
 }
